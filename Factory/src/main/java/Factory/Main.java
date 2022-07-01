@@ -1,4 +1,4 @@
-package ua.dwanford.Pattern;
+package Factory;
 
 public class Main {
 
