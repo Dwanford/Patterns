@@ -3,6 +3,7 @@ package Factory;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.printf("Hello");
+        Mail mail = new GroundMail();
+        mail.sendMail("HELLO");
     }
 }
